@@ -58,7 +58,8 @@ Simple e-commerce schema with:
 
 2. **Install dependencies:**
    ```bash
-   poetry install
+   poetry install --extras=full
+   
    ```
 
 3. **Configure environment (optional):**
